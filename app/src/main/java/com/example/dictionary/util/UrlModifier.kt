@@ -1,7 +1,7 @@
 package com.example.dictionary.util
 
 object UrlModifier {
-    private var myUrl: String = ""
+    private var myUrl: String = " "
 
     private val list = listOf(
         "en", "ar", "fr", "es", "cz", "de", "hi", "id", "ir","it", "ja", "ko", "pl", "pt", "ru","tr", "vi",
@@ -12,6 +12,7 @@ object UrlModifier {
 
     val url: String
         get() = myUrl
+
 
     fun getUrl(text: String,langSource: String,langTarget: String){
         myUrl = "https://translate.astian.org/translate?" +

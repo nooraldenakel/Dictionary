@@ -148,7 +148,7 @@
             android:paddingRight="10dp"
             android:textColor="@color/black"
             android:layout_margin="8dp"
-            android:inputType="textAutoComplete"
+            android:inputType="textAutoCorrect"
             android:gravity="start" />
     </androidx.cardview.widget.CardView>
     <com.wang.avi.AVLoadingIndicatorView
