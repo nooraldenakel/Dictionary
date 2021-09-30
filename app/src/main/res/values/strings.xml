@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string-array name="lang">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Chinese</item>
+        <item>German</item>
+        <item>Hindi</item>
+        <item>Indonesian</item>
+        <item>Irish</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Turkish</item>
+        <item>Vietnamese</item>
+    </string-array>
+</resources>
