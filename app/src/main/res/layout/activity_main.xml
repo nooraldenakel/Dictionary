@@ -9,7 +9,7 @@
 
     <com.skydoves.powerspinner.PowerSpinnerView
         android:id="@+id/langSourceSpinner"
-        android:layout_width="100dp"
+        android:layout_width="wrap_content"
         android:layout_height="37dp"
         android:background="@drawable/spinner_shape"
         android:hint="English"
@@ -40,7 +40,7 @@
         app:spinner_popup_elevation="3dp" />
     <com.skydoves.powerspinner.PowerSpinnerView
         android:id="@+id/langTargetSpinner"
-        android:layout_width="100dp"
+        android:layout_width="wrap_content"
         android:layout_height="37dp"
         android:background="@drawable/spinner_shape"
         android:gravity="center"
